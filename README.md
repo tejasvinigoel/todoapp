@@ -13,3 +13,8 @@ go get github.com/gin-gonic/gin
 ```
 go get github.com/air-verse/air
 ```
+5. Run
+```
+go run cmd/todoapp/main.go
+```
+6. Open http://localhost:8080/hello to view output
